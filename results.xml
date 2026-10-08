@@ -1,0 +1,33 @@
+<testsuites id="" name="" tests="4" failures="0" skipped="0" errors="0" time="13.580081">
+<testsuite name="13.Reports.spec.js" timestamp="2026-10-08T06:55:04.790Z" hostname="chromium" tests="4" failures="0" skipped="0" time="26.979" errors="0">
+<testcase name="WebTable" classname="13.Reports.spec.js" time="3.529">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\13.Reports-WebTable-chromium\video.webm]]
+]]>
+</system-out>
+</testcase>
+<testcase name="validate website" classname="13.Reports.spec.js" time="8.157">
+<system-out>
+<![CDATA[the title is:Logged In Successfully | Practice Test Automation
+
+[[ATTACHMENT|test-results\13.Reports-validate-website-chromium\video.webm]]
+]]>
+</system-out>
+</testcase>
+<testcase name="get started link" classname="13.Reports.spec.js" time="3.399">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\13.Reports-get-started-link-chromium\video.webm]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Single Dropdown" classname="13.Reports.spec.js" time="11.894">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\13.Reports-Single-Dropdown-chromium\video.webm]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
